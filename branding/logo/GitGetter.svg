@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1"/>
+<g id="Layer-3" vectornator:layerName="Layer 3">
+<path d="M237.45 313.939L511.478 199.939L807.627 312.396L822.956 710.396L537.767 812.946L469.459 417.613L237.45 313.939Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 1"/>
+</g>
+<g id="Layer-2" vectornator:layerName="Layer 2">
+<path d="M476.375 218.875L244.625 296.125C223.293 303.236 206 327.228 206 349.714L206 680.286C206 702.772 223.293 726.764 244.625 733.875L476.375 811.125C497.707 818.236 532.293 818.236 553.625 811.125L785.375 733.875C806.707 726.764 824 702.772 824 680.286L824 349.714C824 327.228 806.707 303.236 785.375 296.125L553.625 218.875C532.293 211.764 497.707 211.764 476.375 218.875Z" fill="none" opacity="1" stroke="#e1604b" stroke-linecap="butt" stroke-linejoin="round" stroke-width="64" vectornator:layerName="Curve 1"/>
+<path d="M206 309L440.005 387.002C481.424 400.808 548.576 400.808 589.995 387.002L824 309" fill="none" opacity="1" stroke="#e1604b" stroke-linecap="butt" stroke-linejoin="round" stroke-width="64" vectornator:layerName="Curve 2"/>
+<path d="M515 412L515 561.453L515 824" fill="none" opacity="1" stroke="#e1604b" stroke-linecap="butt" stroke-linejoin="round" stroke-width="64" vectornator:layerName="Curve 3"/>
+<path d="M515 721" fill="none" opacity="1" stroke="#e1604b" stroke-linecap="butt" stroke-linejoin="round" stroke-width="64" vectornator:layerName="Curve 7"/>
+<path d="M515 412" fill="none" opacity="1" stroke="#e1604b" stroke-linecap="butt" stroke-linejoin="round" stroke-width="64" vectornator:layerName="Curve 8"/>
+<path d="M206 309L206 721L515 824L515 412L206 309Z" fill="#e1604b" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 9"/>
+<path d="M927 206" fill="#e1604b" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 10"/>
+<g opacity="1" vectornator:layerName="Curve 11">
+<path d="M338.875 390.531C321.204 390.263 306.674 404.36 306.406 422.031C305.365 490.69 304.322 559.373 303.281 628.031C303.013 645.702 317.11 660.232 334.781 660.5C352.452 660.768 367.013 646.671 367.281 629C368.322 560.341 369.334 491.659 370.375 423C370.643 405.329 356.546 390.799 338.875 390.531Z" fill="#ffffff" stroke="none"/>
+</g>
+<g opacity="1" vectornator:layerName="Curve 12">
+<path d="M263.125 559.469C256.962 559.508 250.749 561.317 245.281 565.062C230.701 575.05 226.981 594.982 236.969 609.562C257.046 638.873 277.11 668.159 297.188 697.469C299.839 701.34 302.505 705.223 305.156 709.094C308.312 713.701 311.244 718.571 315.656 722.125C316.627 722.907 317.633 723.648 318.688 724.312C319.902 725.078 321.132 725.809 322.438 726.406C323.902 727.077 325.421 727.677 326.969 728.125C328.639 728.608 330.337 728.974 332.062 729.188C333.835 729.407 335.653 729.475 337.438 729.406C339.175 729.339 340.889 729.121 342.594 728.781C344.174 728.466 345.734 728.013 347.25 727.469C348.601 726.984 349.912 726.378 351.188 725.719C353.245 724.655 355.159 723.32 356.938 721.844C359.673 719.574 361.827 716.733 364.062 714C367.033 710.368 369.998 706.757 372.969 703.125C396.094 674.843 419.218 646.563 442.344 618.281C453.531 604.6 451.494 584.437 437.812 573.25C424.131 562.063 403.969 564.069 392.781 577.75C374.748 599.804 356.721 621.852 338.688 643.906C338.575 644.043 338.456 644.175 338.344 644.312C338.246 644.17 338.16 644.018 338.062 643.875C321.963 620.372 305.85 596.879 289.75 573.375C283.508 564.262 273.397 559.403 263.125 559.469Z" fill="#ffffff" stroke="none"/>
+</g>
+</g>
+</svg>
