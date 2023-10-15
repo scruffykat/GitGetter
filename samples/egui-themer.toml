@@ -1,0 +1,12 @@
+[general]
+product_name = "Egui Themer"
+github = "grantshandy/egui-themer"
+allow_pre-release_toggle = true
+force_pre-release = false
+
+[platform.windows.64b]
+available = true
+must_contain = ""
+extention=""
+output="programfiles"
+create_directory=true
